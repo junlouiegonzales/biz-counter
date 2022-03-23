@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jhunlouiegonzales:biz-counter',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'Atomic counters stored in MongoDB',
   git: '',
   documentation: 'README.md',
